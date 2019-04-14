@@ -2,6 +2,9 @@
 Pulls in the repository
 C:\gitrepo1>git clone https://github.com/Ivista/FileS3PS.git
 
+Fetch and merge changes on the remote server to your working directory:
+git pull
+
 Shows what is different between us and what is in the cloud.  Use between git add and git commit to track changes
 Git status 
 
